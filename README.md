@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyanair9
-- 👀 I’m interested in programming, UI/UX design, web dev and cyber security
+- 👀 I’m interested in programming, UI/UX design & web dev
 - 🌱 I’m currently studying IT
 - 💞️ I’m looking to collaborate on fun projects
 
